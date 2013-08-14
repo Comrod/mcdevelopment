@@ -1,0 +1,25 @@
+2013-08-14 00:40:39 [SERVER] [INFO] Starting integrated minecraft server version 1.6.2
+2013-08-14 00:40:39 [SERVER] [INFO] Generating keypair
+2013-08-14 00:40:39 [SERVER] [INFO] Converting map!
+2013-08-14 00:40:39 [SERVER] [INFO] Scanning folders...
+2013-08-14 00:40:39 [SERVER] [INFO] Total conversion count is 0
+2013-08-14 00:40:40 [SERVER] [INFO] Preparing start region for level 0
+2013-08-14 00:40:41 [SERVER] [INFO] Preparing spawn area: 7%
+2013-08-14 00:40:42 [SERVER] [INFO] Preparing spawn area: 22%
+2013-08-14 00:40:43 [SERVER] [INFO] Preparing spawn area: 40%
+2013-08-14 00:40:44 [SERVER] [INFO] Preparing spawn area: 54%
+2013-08-14 00:40:45 [SERVER] [INFO] Preparing spawn area: 68%
+2013-08-14 00:40:46 [SERVER] [INFO] Preparing spawn area: 86%
+2013-08-14 00:40:47 [SERVER] [INFO] Player739[/127.0.0.1:0] logged in with entity id 42 at (78.5, 64.0, 249.5)
+2013-08-14 00:40:47 [SERVER] [INFO] Player739 joined the game
+2013-08-14 00:41:05 [SERVER] [INFO] Saving and pausing game...
+2013-08-14 00:41:05 [SERVER] [INFO] Saving chunks for level 'Test'/Overworld
+2013-08-14 00:41:05 [SERVER] [INFO] Saving chunks for level 'Test'/Nether
+2013-08-14 00:41:05 [SERVER] [INFO] Saving chunks for level 'Test'/The End
+2013-08-14 00:41:07 [SERVER] [INFO] Stopping server
+2013-08-14 00:41:07 [SERVER] [INFO] Saving players
+2013-08-14 00:41:07 [SERVER] [INFO] Player739 left the game
+2013-08-14 00:41:07 [SERVER] [INFO] Saving worlds
+2013-08-14 00:41:07 [SERVER] [INFO] Saving chunks for level 'Test'/Overworld
+2013-08-14 00:41:07 [SERVER] [INFO] Saving chunks for level 'Test'/Nether
+2013-08-14 00:41:07 [SERVER] [INFO] Saving chunks for level 'Test'/The End

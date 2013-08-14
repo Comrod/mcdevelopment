@@ -1,0 +1,12 @@
+package com.github.Comrod.antarcticamod;
+
+import net.minecraft.item.Item;
+
+public class ItemPenguinMeat extends Item {
+
+	public ItemPenguinMeat(int par1) {
+		super(par1);
+		// TODO Auto-generated constructor stub
+	}
+
+}

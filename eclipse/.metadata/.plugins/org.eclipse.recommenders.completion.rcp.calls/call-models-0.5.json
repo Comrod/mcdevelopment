@@ -1,0 +1,17 @@
+{
+  "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar",
+    "status": "RESOLVED"
+  },
+  "/Users/cormacchester/mcdevelopment/source/Antarctica Mod/antarctica_common": {
+    "location": "/Users/cormacchester/mcdevelopment/source/Antarctica Mod/antarctica_common",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/cormacchester/mcdevelopment/source/Antarctica Mod/antarctica_common\u0027. Skipped."
+  },
+  "/Users/cormacchester/mcdevelopment/forge/mcp/src/minecraft": {
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/src/minecraft",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/cormacchester/mcdevelopment/forge/mcp/src/minecraft\u0027. Skipped."
+  }
+}

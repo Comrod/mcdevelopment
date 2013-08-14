@@ -1,0 +1,102 @@
+2013-08-13 22:32:24 [CLIENT] [INFO] Setting user: Player906
+2013-08-13 22:32:24 [CLIENT] [INFO] (Session ID is null)
+2013-08-13 22:32:25 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-13 22:32:26 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:32:29 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:32:31 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:32:32 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-13 22:32:32 [CLIENT] [SEVERE] @ Post startup
+2013-08-13 22:32:32 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-13 22:32:33 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-13 22:32:47 [CLIENT] [INFO] Stopping!
+2013-08-13 22:33:01 [CLIENT] [INFO] Setting user: Player283
+2013-08-13 22:33:01 [CLIENT] [INFO] (Session ID is null)
+2013-08-13 22:33:02 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-13 22:33:03 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:33:06 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:33:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:33:08 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-13 22:33:08 [CLIENT] [SEVERE] @ Post startup
+2013-08-13 22:33:08 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-13 22:33:09 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-13 22:33:21 [CLIENT] [INFO] Stopping!
+2013-08-13 22:42:08 [CLIENT] [INFO] Setting user: Player919
+2013-08-13 22:42:08 [CLIENT] [INFO] (Session ID is null)
+2013-08-13 22:42:09 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-13 22:42:09 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:42:13 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:42:14 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-13 22:42:15 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-13 22:42:15 [CLIENT] [SEVERE] @ Post startup
+2013-08-13 22:42:15 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-13 22:42:16 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-13 22:42:18 [CLIENT] [INFO] Stopping!
+2013-08-14 00:01:24 [CLIENT] [INFO] Setting user: Player9
+2013-08-14 00:01:24 [CLIENT] [INFO] (Session ID is null)
+2013-08-14 00:01:26 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-14 00:01:26 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-14 00:01:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:01:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:01:33 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-14 00:01:33 [CLIENT] [SEVERE] @ Post startup
+2013-08-14 00:01:33 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-14 00:01:34 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-14 00:02:23 [CLIENT] [INFO] Stopping!
+2013-08-14 00:09:39 [CLIENT] [INFO] Setting user: Player832
+2013-08-14 00:09:39 [CLIENT] [INFO] (Session ID is null)
+2013-08-14 00:09:40 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-14 00:09:40 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-14 00:09:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica
+2013-08-14 00:09:45 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica
+2013-08-14 00:09:45 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-14 00:09:45 [CLIENT] [SEVERE] @ Post startup
+2013-08-14 00:09:45 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-14 00:09:48 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-14 00:10:21 [CLIENT] [INFO] Stopping!
+2013-08-14 00:10:28 [CLIENT] [INFO] Setting user: Player223
+2013-08-14 00:10:28 [CLIENT] [INFO] (Session ID is null)
+2013-08-14 00:10:29 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-14 00:10:30 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-14 00:10:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:10:35 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:10:36 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-14 00:10:36 [CLIENT] [SEVERE] @ Post startup
+2013-08-14 00:10:36 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-14 00:10:37 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-14 00:11:34 [CLIENT] [INFO] Stopping!
+2013-08-14 00:12:50 [CLIENT] [INFO] Setting user: Player778
+2013-08-14 00:12:50 [CLIENT] [INFO] (Session ID is null)
+2013-08-14 00:12:51 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-14 00:12:51 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-14 00:12:55 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:12:57 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:12:57 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-14 00:12:57 [CLIENT] [SEVERE] @ Post startup
+2013-08-14 00:12:57 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-14 00:12:59 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-14 00:15:03 [CLIENT] [INFO] Stopping!
+2013-08-14 00:15:09 [CLIENT] [INFO] Setting user: Player308
+2013-08-14 00:15:09 [CLIENT] [INFO] (Session ID is null)
+2013-08-14 00:15:10 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-14 00:15:11 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-14 00:15:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:15:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:15:17 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-14 00:15:17 [CLIENT] [SEVERE] @ Post startup
+2013-08-14 00:15:17 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-14 00:15:18 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-14 00:16:00 [CLIENT] [INFO] Connecting to 127.0.0.1, 25565
+2013-08-14 00:16:21 [CLIENT] [INFO] Stopping!
+2013-08-14 00:40:13 [CLIENT] [INFO] Setting user: Player739
+2013-08-14 00:40:13 [CLIENT] [INFO] (Session ID is null)
+2013-08-14 00:40:14 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-08-14 00:40:14 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-08-14 00:40:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:40:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_6256_penguinMeat.png
+2013-08-14 00:40:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Antarctica Mod
+2013-08-14 00:40:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_6256_penguinMeat.png
+2013-08-14 00:40:21 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2013-08-14 00:40:21 [CLIENT] [SEVERE] @ Post startup
+2013-08-14 00:40:21 [CLIENT] [SEVERE] 1281: Invalid value
+2013-08-14 00:40:22 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-08-14 00:41:40 [CLIENT] [INFO] Stopping!

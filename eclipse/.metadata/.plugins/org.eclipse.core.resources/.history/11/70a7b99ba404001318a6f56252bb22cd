@@ -1,0 +1,11 @@
+package com.github.Comrod.antarcticamod;
+
+import net.minecraft.item.Item;
+
+public class ItemPenguinMeat extends Item {
+
+	public ItemPenguinMeat(int id) {
+		super(id);
+	}
+
+}

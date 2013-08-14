@@ -1,0 +1,19 @@
+[
+{
+	"modid": "Antarctica",
+	"name": "",
+	"description": "",
+	"version": "",
+	"url": "www.github.com/Comrod/antarcticamod",
+	"authorList": [
+		"Comrod"
+	],
+	"credits": "Stuff",
+	"logFile": "",
+	"screenshots": [
+	],
+	"parent": "",
+	"dependencies": [
+	]
+}
+]

@@ -1,0 +1,5 @@
+package com.github.Comrod.antarcticamod.client;
+
+public class ClientProxy {
+
+}

@@ -1,0 +1,691 @@
+[
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 14,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "67b7be4ee7ba48e4828a42d6d5069761186d4a53",
+    "jarFileModificationDate": "2013-08-13T21:33:43-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/com/google/guava/guava/14.0/guava-14.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-2.9.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5654d06e61a1bba7ae1e7f5233e1106be64c91cd",
+    "jarFileModificationDate": "2013-08-13T21:33:37-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "argo-2.25_fixed",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "751761ce15a3e3aaf3fc75b9f013ff8f7b88a585",
+    "jarFileModificationDate": "2013-08-13T21:33:39-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/argo/argo/2.25_fixed/argo-2.25_fixed.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5da320e46f1c616986563b2e788b5a0569cad088",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
+    "jarFileModificationDate": "2013-08-13T21:33:51-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-compiler",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 2,
+      "qualifier": "v20130530-074427-VFINAL-60d462ef6e"
+    },
+    "jarFileFingerprint": "64c8b1380cc53d6850823d6e4e7ae984aa44ef9c",
+    "jarFileModificationDate": "2013-08-13T21:33:33-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3fd7709166f70fe311b45a7bafe7cdccbecf6b04",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ca9e390a18f6bed5719c731eb0a021da33ada472",
+    "jarFileModificationDate": "2011-07-14T14:43:29-05:00",
+    "location": "/System/Library/Java/Extensions/j3dcore.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "187a3cf6ae2087c1e05147287a8c627acbc4d497",
+    "jarFileModificationDate": "2011-09-02T18:37:04-05:00",
+    "location": "/System/Library/Java/Extensions/AppleScriptEngine.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8d1b4ddb7858fd6cf8bc0cfe445d9f4b759e4144",
+    "jarFileModificationDate": "2013-06-06T00:41:58-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.0-natives-linux",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2ba5dcb11048147f1a74eff2deb192c001321f77",
+    "jarFileModificationDate": "2013-08-13T21:33:50-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-linux.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4c7923b11e98bc8d1d32bfd2ff6363d212ead80",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext/sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-linux",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7ff832a6eb9ab6a767f1ade2b548092d0fa64795",
+    "jarFileModificationDate": "2013-08-13T21:33:51-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f0427e7b6097a1502a5752d1c527e8bfb1724707",
+    "jarFileModificationDate": "2013-06-22T08:24:35-05:00",
+    "location": "/System/Library/Java/Extensions/QTJava.zip",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "53f9c919f34d2ca9de8c51fc4e1e8282029a9232",
+    "jarFileModificationDate": "2013-08-13T21:33:51-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.codecjorbis",
+    "version": {
+      "major": 20101023,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c73b5636faf089d9f00e8732a829577de25237ee",
+    "jarFileModificationDate": "2013-08-13T21:33:35-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl_util-2.9.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a778846b64008fc7f48ead2377f034e547991699",
+    "jarFileModificationDate": "2013-08-13T21:33:38-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f433861631c5e16bbe890a2303a14cbd183f5237",
+    "jarFileModificationDate": "2013-06-18T20:53:10-05:00",
+    "location": "/System/Library/Java/Extensions/MRJToolkit.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.paulscode.codecwav",
+    "version": {
+      "major": 20101023,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12f031cfe88fef5c1dd36c563c0a3a69bd7261da",
+    "jarFileModificationDate": "2013-08-13T21:33:35-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.0-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6621b382cb14cc409b041d8d72829156a87c31aa",
+    "jarFileModificationDate": "2013-08-13T21:33:49-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b82cb838fb1c673dc4c0d40c8459843495483262",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2013-08-13T21:33:45-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d844237a4edafd833e49839804190c604dd4e261",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/JObjC.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "bcprov",
+    "version": {
+      "major": 1,
+      "minor": 47,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b6f5d9926b0afbde9f4dbe3db88c5247be7794bb",
+    "jarFileModificationDate": "2013-08-13T21:33:41-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f8da5f0b2561d280a59a4414c59083dec8e0227",
+    "jarFileModificationDate": "2011-07-14T15:44:11-05:00",
+    "location": "/System/Library/Java/Extensions/jai_codec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lzma-0.0.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "521616dc7487b42bef0e803bd2fa3faf668101d7",
+    "jarFileModificationDate": "2013-08-13T21:33:35-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.sf.jopt-simple.jopt-simple",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6065cc95c661255349c1d0756657be17c29a4fd3",
+    "jarFileModificationDate": "2013-08-13T21:33:34-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "34699721120eede31b7fe5140226deedc0b2aab9",
+    "jarFileModificationDate": "2011-07-14T14:43:29-05:00",
+    "location": "/System/Library/Java/Extensions/j3daudio.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "905075e6c80f206bbe6cf1e809d2caa69f420c76",
+    "jarFileModificationDate": "2013-08-13T21:33:44-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.librarylwjglopenal",
+    "version": {
+      "major": 20100824,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "73e80d0794c39665aec3f62eee88ca91676674ef",
+    "jarFileModificationDate": "2013-08-13T21:33:36-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "argo-2.25",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bb672829fde76cb163004752b86b0484bd0a7f4b",
+    "jarFileModificationDate": "2013-08-13T21:33:39-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/net/sourceforge/argo/argo/2.25/argo-2.25.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0999f1f3951d713e9a0d96f063f6f6e931589cdd",
+    "jarFileModificationDate": "2011-07-14T14:43:29-05:00",
+    "location": "/System/Library/Java/Extensions/vecmath.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0a96b7d4126b3a5e4ac1bfb648ce0a059e03f7de",
+    "jarFileModificationDate": "2013-06-18T20:53:14-05:00",
+    "location": "/System/Library/Java/Extensions/dns_sd.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-2.0.5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39c7796b469a600f72380316f6b1f11db6c2c7c4",
+    "jarFileModificationDate": "2013-08-13T21:33:46-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5900ecb571cda915bfde4ea385bd1e62a10c88f4",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64fb5f2630ca1123d3d626d4d8b140ac593ba470",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "launchwrapper-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78049b4cc4611e812a8d2e27c08a295d15df1fba",
+    "jarFileModificationDate": "2013-08-13T21:33:26-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/net/minecraft/launchwrapper/1.3/launchwrapper-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c5d7b7bfab9b433c4b62aebbe76a564b6bcf8192",
+    "jarFileModificationDate": "2011-07-14T15:43:57-05:00",
+    "location": "/System/Library/Java/Extensions/mlibwrapper_jai.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3140dcf3829b52162ab2e173cfa873bae7303d73",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "1.6.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fbdc5849a7b16b5044a979e97942062318ab6c3a",
+    "jarFileModificationDate": "2013-08-13T21:40:04-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/versions/1.6.2/1.6.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3230fa77faab52ade3dc27fbf71731c5c73ab349",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "80a1b59c9a46cd5cd3869637f77eb5261937fd35",
+    "jarFileModificationDate": "2011-07-14T14:43:29-05:00",
+    "location": "/System/Library/Java/Extensions/j3dutils.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.objectweb.asm.all.debug",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dd6ba5c392d4102458494e29f54f70ac534ec2a2",
+    "jarFileModificationDate": "2013-08-13T21:33:27-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-library",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 2,
+      "qualifier": "v20130530-074427-VFINAL-60d462ef6e"
+    },
+    "jarFileFingerprint": "6ba65d12cd09d441083262d6f73d2257fec7c663",
+    "jarFileModificationDate": "2013-08-13T21:33:29-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "18791566f69cb8cadd79e4da7a487da8a783d091",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f831655c50b92c41e366442d09511ea84270c45e",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1f96456ca233dec780aa224bff076d8e8bca3908",
+    "jarFileModificationDate": "2013-08-13T21:33:47-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.java.jutils.jutils",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e12fe1fda814bd348c1579329c86943d2cd3c6a6",
+    "jarFileModificationDate": "2013-08-13T21:33:46-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.0-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f11873dc8e84c854ec7c5a8fd2e869f8aaef764",
+    "jarFileModificationDate": "2013-08-13T21:33:49-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "57449a74240914636c43a7b8ccfbd36be1bf532b",
+    "jarFileModificationDate": "2013-06-06T00:41:57-05:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.paulscode.soundsystem",
+    "version": {
+      "major": 20120107,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+    "jarFileModificationDate": "2013-08-13T21:33:36-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "096c07686702497c46affdf25d6559ac10235884",
+    "jarFileModificationDate": "2011-07-14T15:44:11-05:00",
+    "location": "/System/Library/Java/Extensions/jai_core.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.paulscode.libraryjavasound",
+    "version": {
+      "major": 20101123,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+    "jarFileModificationDate": "2013-08-13T21:33:36-05:00",
+    "location": "/Users/cormacchester/mcdevelopment/forge/mcp/jars/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+    "javaRuntime": false
+  }
+]
